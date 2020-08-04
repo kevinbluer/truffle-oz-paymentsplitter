@@ -43,7 +43,7 @@ module.exports = {
     // options below to some value.
     //
     teams: {
-      url: "ws://marshmallow:8002/8bfb9335-3498-44a8-98d3-cc3d43e1fd75",
+      url: "ws://marshmallow:8002/d066de41-8016-4861-b3ed-8605417c7106",
       network_id: "*"
     }
 
