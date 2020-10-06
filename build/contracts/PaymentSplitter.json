@@ -7968,10 +7968,10 @@
     "version": "0.6.0+commit.26b70077.Emscripten.clang"
   },
   "networks": {
-    "1596574696777": {
+    "1602024320734": {
       "events": {},
       "links": {},
-      "address": "0x08Ca16e4F4b8A5153A6EBF2Fa295776272C30a3C",
+      "address": "0x8f0703b3ef5751566490Fc7e78b51F3b3AD249B9",
       "transactionHash": "0xf613a279e444e529555922995635fe978c7276fb213c74ce3f26b11905a15ad6"
     },
     "1595624255382": {
